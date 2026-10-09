@@ -1,0 +1,3 @@
+# Drives your local Google Chrome over a debug port to read X Article pages.
+# No browser download needed: it attaches to the real Chrome you have installed.
+playwright>=1.40

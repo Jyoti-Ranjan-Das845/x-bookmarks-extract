@@ -1,0 +1,15 @@
+# Personal data — never commit
+*.json
+*.jsonl
+*-report.txt
+.cache/
+.chrome-profile-x/
+.auth/
+
+# xarchive is cloned separately (see CLAUDE.md)
+xarchive/
+
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
