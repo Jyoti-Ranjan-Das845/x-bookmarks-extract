@@ -1,5 +1,10 @@
 # x-bookmarks-extract
 
+> **On the `long-video-transcription` branch, the task is different:** transcribe
+> the long videos listed in `transcribe/videos_long.json`. Read
+> `transcribe/CLAUDE.md` and follow it. The rest of this file is about the
+> bookmark extraction, which is already done.
+
 Extract every X (Twitter) bookmark on an account into one JSON file where
 **every record has its full content**. The output gets carried back to
 another machine for normalization and clustering. That later work does not
