@@ -13,3 +13,7 @@ __pycache__/
 *.pyc
 .DS_Store
 .venv/
+
+# long-video transcription: the video list and the transcripts are meant to be committed
+!transcribe/videos_long.json
+!transcribe/transcripts/*.json
