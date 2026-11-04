@@ -187,16 +187,20 @@
   "key": "2116593247854453244_1",
   "post": "https://x.com/benjitaylor/status/2116593247854453244",
   "author": "benjitaylor",
-  "duration_s": null,
-  "mp4": null,
-  "from": "quoted by https://x.com/shannholmberg/status/2116957574008590445"
+  "duration_s": 24,
+  "mp4": "https://video.twimg.com/amplify_video/2116591037816971264/vid/avc1/386x270/h1nuhO_iQnO6e4oh.mp4",
+  "from": "quoted by https://x.com/shannholmberg/status/2116957574008590445",
+  "mp4_source": "cdn.syndication.twimg.com tweet-result (quoted post; xarchive does not capture quoted-post media)",
+  "no_audio_expected": true
  },
  {
   "key": "2117408792346509663_1",
   "post": "https://x.com/OpenAIDevs/status/2117408792346509663",
   "author": "OpenAIDevs",
-  "duration_s": null,
-  "mp4": null,
-  "from": "quoted by https://x.com/gdb/status/2117435285021810921"
+  "duration_s": 18,
+  "mp4": "https://video.twimg.com/amplify_video/2117408779730108416/vid/avc1/480x270/fKcinGexBdHtR1x7.mp4?tag=16",
+  "from": "quoted by https://x.com/gdb/status/2117435285021810921",
+  "mp4_source": "cdn.syndication.twimg.com tweet-result (quoted post; xarchive does not capture quoted-post media)",
+  "no_audio_expected": true
  }
 ]

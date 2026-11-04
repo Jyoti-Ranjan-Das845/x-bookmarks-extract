@@ -1,0 +1,1 @@
+{"key": "2117408792346509663_1", "duration_s": 18, "model": "mlx-community/whisper-large-v3-turbo", "transcribed": "2026-11-04", "status": "no-audio", "error": "wav @ 0x600002c28000] Output file does not contain any stream\nError opening output file /var/folders/6h/2x0_jp1955q0v2_yk181khfh0000gn/T/tmpcljbyw6u/a.wav.\nError opening output files: Invalid argument", "segments": []}
